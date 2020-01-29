@@ -1,4 +1,5 @@
 #!/bin/sh
+#
 rep="./"
 find $rep -type f | ( while read LINE
 do
